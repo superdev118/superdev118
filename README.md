@@ -70,7 +70,7 @@
 <ul>
 	<li>Machine Learning & LLMs</li>
 	<li>Chatbot Development & RAG (Retrieval Augmented Generation)</li>
-	<li>LangChain, OpenAI API, Vector Databases</li>
+	<li>LangChain, n8n, OpenAI API, Vector Databases</li>
 	<li>MLOps & AI Workflow Automation</li>
 </ul>
 </details>
